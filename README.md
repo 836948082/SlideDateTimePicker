@@ -3,8 +3,8 @@
 
 https://github.com/jjobes/SlideDateTimePicker
 
-![screen_1](https://github.com/836948082/QuantityView/blob/0d31dad8a12e383585c7ad95a60fd89492bfe4c5/image/screen_1.png)
-![screen_2](https://github.com/836948082/QuantityView/blob/0d31dad8a12e383585c7ad95a60fd89492bfe4c5/image/screen_2.png)
+![screen_1](https://github.com/836948082/SlideDateTimePicker/blob/master/image/1.png)
+![screen_2](https://github.com/836948082/SlideDateTimePicker/blob/master/image/2.png)
 
 /**
  * 选择回调
